@@ -1,22 +1,22 @@
-\# Week 6: Final Data Analytics Project
+Week 6: Final Data Analytics Project
 
 
 
-\*\*Student Name:\*\* Syed Kamran
+Student Name: Syed Kamran
 
 
 
-\*\*College Name:\*\* Saraswati
+College Name:Saraswati
 
 
 
-\## Project Overview
+ Project Overview
 
 This project demonstrates Git and GitHub workflow and the application of data analytics skills learned during the internship.
 
 
 
-\## Tools Used
+ Tools Used
 
 \- Python
 
@@ -34,7 +34,7 @@ This project demonstrates Git and GitHub workflow and the application of data an
 
 
 
-\## Assignment Tasks
+ Assignment Tasks
 
 1\. Git and GitHub Basics
 
@@ -54,7 +54,7 @@ This project demonstrates Git and GitHub workflow and the application of data an
 
 
 
-\## Project Status
+Project Status
 
 GitHub repository created and local repository cloned. Data analysis and dashboard tasks will be completed next.
 
